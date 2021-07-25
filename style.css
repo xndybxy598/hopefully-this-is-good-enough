@@ -47,3 +47,20 @@ span {
     float: right;
 }
 
+.whatsNew_li {
+    margin-top: 13px;
+}
+
+.whatsNew_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whatsNew_li img {
+    border-radius: 25px;
+    height: 400px;
+}
+
+.whatsNew_li p {
+    margin-top: 10px;
+}
